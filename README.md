@@ -1,1 +1,1 @@
-# simple-js-modules
+# Simple Vanilla js Modules 
