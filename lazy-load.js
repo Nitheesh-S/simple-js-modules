@@ -4,7 +4,8 @@
 // run lazyLoad()
 // Dependency - []
 // even better way to do lazy loading is with IntersectionObserver api
-// Here is really good article lazy loading is with IntersectionObserver api https://css-tricks.com/tips-for-rolling-your-own-lazy-loading/
+// Here is a really good article about lazy loading using IntersectionObserver api 
+// https://css-tricks.com/tips-for-rolling-your-own-lazy-loading/
 const lazyLoad = () => {
 	let lazyloadImages;
 	let lazyloadThrottleTimeout;
